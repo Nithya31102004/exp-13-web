@@ -1,7 +1,7 @@
 # EXP 13 – Simulate an Asynchronous Operation Using Promises in React
 
 **NAME:** Nithya T  
-**REG NO:** 23050010123
+**REG NO:** 2305001023
 
 ## Aim
 
